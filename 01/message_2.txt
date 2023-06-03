@@ -1,0 +1,4 @@
+Good morning {},
+This is a information that you have {} tasks left to
+submit before you can graduate. You're current grade is {}, congratulations!
+Until june 26th you can do whatever you want."
